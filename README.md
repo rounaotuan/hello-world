@@ -1,2 +1,5 @@
 # hello-world
-rourou's first project on github
+
+Hi humans!
+
+right now is 5month old.
